@@ -1,0 +1,43 @@
+News site crawled: nytimes.com
+
+Fetch Statistics
+================
+# fetches attempted: 19944
+# fetches succeeded: 14678
+# fetches aborted: 5189
+# fetches failed: 77
+
+Outgoing URLs:
+==============
+Total URLs extracted: 1535853
+# unique URLs extracted: 185877
+# unique URLs within News Site: 84305
+# unique URLs outside News Site: 101572
+
+Status Codes:
+=============
+200 OK: 14678
+301 Moved Permanently: 5148
+302 Moved Temporarily: 33
+303 See Other: 8
+403 Forbidden: 2
+404 Not Found: 38
+410 Gone: 2
+503 Service Unavailable: 35
+
+File Sizes:
+===========
+< 1KB: 14
+1KB ~ <10KB: 57
+10KB ~ <100KB: 8749
+100KB ~ <1MB: 5185
+>= 1MB: 32
+
+Content Types:
+==============
+text/xml: 69
+text/plain: 1
+text/html: 13949
+image/png: 15
+image/gif: 2
+application/pdf: 1

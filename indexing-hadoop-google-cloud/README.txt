@@ -1,0 +1,1 @@
+Created a Hadoop cluster on Google Cloud Platform and Wrote Mapper and Reducer classes for Map-Reduce jobs to create an inverted index of ~3000 books
